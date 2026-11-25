@@ -1,8 +1,8 @@
 # Tuesday 24 November 2026 — 38 Stories from 7 Regions: Nvidia Falls, Riyadh Tower Hit, COP31 Ends with No Deal
 
-![news-image-20261124](https://make.fun/badge/news-image-20261124.svg)
-![rank](https://make.fun/badge/news-image-20261124/Mansyur0523/makefun-news-image-20261124-r2/rank.svg)
-![reward](https://make.fun/badge/news-image-20261124/Mansyur0523/makefun-news-image-20261124-r2/reward.svg)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Mansyur0523/makefun-news-image-20261124-r2/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Mansyur0523/makefun-news-image-20261124-r2/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 One newspaper page that sums up Tuesday 24 November 2026 in a single image:
 **38 verified stories from 7 regions** — 3 leads, 10 features, 25 briefs — plus a
